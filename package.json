@@ -1,0 +1,22 @@
+{
+  "name": "bagelbytes",
+  "version": "1.0.0",
+  "description": "awesome app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddzgoev/BagelBytes.git"
+  },
+  "author": "you guys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddzgoev/BagelBytes/issues"
+  },
+  "homepage": "https://github.com/ddzgoev/BagelBytes#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
